@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQEeON8CRK1atQ/profile-displaybackgroundimage-shrink_350_1400/0/1687875399514?e=1722470400&v=beta&t=cbneDOspr8lMKisJEblbWEJV-a1SfPHs3csTxUtTph8">
 <h2>Thanks for visiting my profile. I'm a WEB Developer in Bangladesh </h2>
 - 🔭 I’m currently working on Travel joyfully, Turtleomg, Robnon Tech.<br>
-- 🌱 I’m currently learning computer science and engineering in <br> Shanto-Mariam University of Creative Technology
+- 🌱 I’m currently learning computer science and engineering in  Shanto-Mariam University of Creative Technology <br>
 - 👯 I’m looking to collaborate on MDHH Group & Technology<br>
 <!-- 
 - 🤔 I’m looking for help with ...
