@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://media.licdn.com/dms/image/D4D16AQGHKNk7E5lGWA/profile-displaybackgroundimage-shrink_350_1400/0/1720270395134?e=1726099200&v=beta&t=Nm_if-C4d9mhfOzS6A_T4YqNlsRCzl5f6VK9uGiklqA">
 <h2>Thanks for visiting my profile.<br> I'm a WEB Developer in Bangladesh </h2>
-<script src="https://tryhackme.com/badge/3366616"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Haisam.png" alt="TryHackMe">
 - 🔭 I’m currently working on Travel joyfully, Turtleomg, Robnon Tech.<br>
 - 🌱 I’m currently learning computer science and engineering in  Shanto-Mariam University of Creative Technology <br>
 - 👯 I’m looking to collaborate on MDHH Group & Technology<br>
