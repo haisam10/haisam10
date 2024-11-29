@@ -65,6 +65,7 @@
       height="40"
     />
   </a>
+  <br><br>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -123,6 +124,7 @@
       height="40"
     />
   </a>
+  <br><br>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -164,7 +166,7 @@
       height="40"
     />
   </a>
-
+<br><br>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
