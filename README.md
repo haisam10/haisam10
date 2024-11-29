@@ -1,7 +1,8 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/haisam10/haisam10/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png">
 <h2>Thanks for visiting my profile.<br> I'm a WEB Developer in Bangladesh </h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Haisam.png" alt="TryHackMe">
+  <div><img src="https://tryhackme-badges.s3.amazonaws.com/Haisam.png" alt="TryHackMe"> </div>
+  <div>
 - 🔭 I’m currently working on Travel joyfully, Turtleomg, Robnon Tech.<br>
 - 🌱 I’m currently learning computer science and engineering in  Shanto-Mariam University of Creative Technology <br>
 - 👯 I’m looking to collaborate on MDHH Group & Technology<br>
@@ -11,7 +12,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--></div>
+
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
