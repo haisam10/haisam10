@@ -75,6 +75,7 @@
       alt="bootstrap"
       width="40"
       height="40"
+      style="background:#fff";
     />
   </a>
   <br><br>
@@ -194,10 +195,7 @@
       alt="photoshop"
       width="40"
       height="40"
+      style="background:#fff";
     />
   </a>
 </p>
-<img   
-      src="https://img-c.udemycdn.com/course/480x270/5307668_e6e2_2.jpg"
-      alt="Linux"
-      height="200" />
