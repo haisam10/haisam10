@@ -188,7 +188,7 @@
   </a>
 </p>
 <img   
-      src="https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_640.png"
+      src="https://img-c.udemycdn.com/course/480x270/5307668_e6e2_2.jpg"
       alt="Linux"
       width="100"
       height="100" />
