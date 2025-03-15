@@ -15,7 +15,7 @@
   <div>
 - 🔭 I’m currently working on Travel joyfully, Turtleomg, Robnon Tech.<br>
 - 🌱 I’m currently learning computer science and engineering in  Shanto-Mariam University of Creative Technology <br>
-- 👯 I’m looking to collaborate on MDHH Group & Technology<br>
+- 👯 CEO and Founder on MDHH Group & Technology<br>
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
