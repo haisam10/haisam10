@@ -1,12 +1,12 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/haisam10/haisam10/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png">
 <h2>Thanks for visiting my profile.<br> I'm a WEB Developer in Bangladesh </h2>
-  <div style="display:flex;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Haisam.png" alt="TryHackMe"> 
+  <div style="display:flex; justify-content: space-around;">
     <img   
       src="https://img-c.udemycdn.com/course/480x270/5307668_e6e2_2.jpg"
       alt="Linux"
       height="200" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Haisam.png" alt="TryHackMe"> 
   </div>
   <div>
 - 🔭 I’m currently working on Travel joyfully, Turtleomg, Robnon Tech.<br>
