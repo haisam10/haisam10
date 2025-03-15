@@ -187,4 +187,8 @@
     />
   </a>
 </p>
-<img src="https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_640.png" />
+<img   
+      src="https://cdn.pixabay.com/photo/2013/07/13/11/43/tux-158547_640.png"
+      alt="Linux"
+      width="100"
+      height="100" />
