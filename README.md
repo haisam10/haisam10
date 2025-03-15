@@ -190,5 +190,4 @@
 <img   
       src="https://img-c.udemycdn.com/course/480x270/5307668_e6e2_2.jpg"
       alt="Linux"
-      width="100"
-      height="100" />
+      height="200" />
