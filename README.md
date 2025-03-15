@@ -1,7 +1,10 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/haisam10/haisam10/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png">
 <h2>Thanks for visiting my profile.<br> I'm a WEB Developer in Bangladesh </h2>
-  <div style="display:flex; justify-content: space-around;">
+  <div style="
+    display:flex;
+    justify-content: space-between;
+    ">
     <img   
       src="https://img-c.udemycdn.com/course/480x270/5307668_e6e2_2.jpg"
       alt="Linux"
