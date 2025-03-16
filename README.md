@@ -13,8 +13,8 @@
     <img src="https://tryhackme-badges.s3.amazonaws.com/Haisam.png" alt="TryHackMe"> 
   </div>
   <div>
-- 🔭 I’m currently working on Travel joyfully, Turtleomg, Robnon Tech.<br>
-- 🌱 I’m currently learning computer science and engineering in  Shanto-Mariam University of Creative Technology <br>
+- 🔭 I’m working on Travel joyfully, Turtleomg, Robnon Tech.<br>
+- 🌱 I’m learning computer science and engineering in  Shanto-Mariam University of Creative Technology <br>
 - 👯 CEO and Founder on MDHH Group & Technology<br>
 <!-- 
 - 🤔 I’m looking for help with ...
