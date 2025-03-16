@@ -23,7 +23,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --></div>
-
+<hr />
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
