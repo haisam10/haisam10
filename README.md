@@ -210,3 +210,26 @@
   <a href="https://github.com/haisam10" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisam10&layout=compact&theme=radical" alt="Top Languages" />
   </a>
+
+
+
+ <div class="section">
+    <h2>Visitor Count</h2>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=haisam10.haisam10" alt="Visitor Count" />
+  </div>
+
+  <div class="section">
+    <h2>Contribution Graph</h2>
+    <img src="https://github.com/haisam10.png" alt="GitHub Profile Picture" style="width:100px; border-radius:50%;" />
+    <br /><br />
+    <img src="https://ghchart.rshah.org/haisam10" alt="GitHub Contribution Graph" />
+  </div>
+
+  <div class="section projects">
+    <h2>Project Highlights</h2>
+    <ul>
+      <li><a href="https://github.com/haisam10/Web-0-finder" target="_blank" rel="noopener noreferrer">Web-0-finder</a> — Python script for crawling website links.</li>
+      <li><a href="https://github.com/haisam10/Attendance-Management-System-javafx" target="_blank" rel="noopener noreferrer">Attendance Management System (JavaFX)</a> — Desktop app for student attendance.</li>
+      <li><a href="https://github.com/haisam10/mdhh-shop" target="_blank" rel="noopener noreferrer">mdhh-shop</a> — PHP-based eCommerce website project.</li>
+    </ul>
+  </div>
