@@ -201,9 +201,6 @@
 </p>
 
 
-  <a href="https://github.com/haisam10" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=haisam10&show_icons=true&theme=radical" alt="GitHub Stats" />
-  </a>
 
   <br /><br />
 
