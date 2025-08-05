@@ -1,6 +1,6 @@
 ## Hi there 👋
 <img src="https://raw.githubusercontent.com/haisam10/haisam10/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haisam10&show_icons=true&theme=radical)
+https://github-readme-stats.vercel.app/api?username=haisam10&show_icons=true&theme=radical
 <h2>Thanks for visiting my profile.<br> I'm a WEB Developer & RAW coder in Bangladesh <img src="https://flagpedia.net/data/flags/emoji/twitter/256x256/bd.png" width="20vw"/></h2>
   <div style="
     display: flex;
