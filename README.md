@@ -22,9 +22,6 @@
     alt="anonymous"
     height="200"
     />
-   
-    <br />
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mr.haisam.info.png" alt="Your Image Badge" />
   </div>
   <div>
 - 🔭 I’m working on Travel joyfully, Turtleomg, Robnon Tech-(Cybrary Security).<br>
