@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Md.%20Haisam%20Hoque&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Web%20Developer%20%7C%20RAW%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=a0aec0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Md.%20Haisam%20Hoque&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20RAW%20Coder%20%7C%20Tech%20Enthusiast&descAlignY=60&descColor=f0f8ff" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Haisam+%F0%9F%91%8B;Full+Stack+Web+Developer;RAW+Coder+%7C+No+Plugins+Needed!;CEO+%26+Founder+of+MDHH+Group;CSE+Student+%40+SMUCT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Haisam+%F0%9F%91%8B;Full+Stack+Web+Developer;RAW+Coder+%7C+No+Plugins+Needed!;CEO+%26+Founder+of+MDHH+Group;CSE+Student+%40+SMUCT)](https://git.io/typing-svg)
 
 </div>
 
@@ -79,14 +79,14 @@ const haisam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haisam10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisam10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=haisam10&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=3b82f6&text_color=374151" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisam10&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=374151" height="165" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=haisam10&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haisam10&theme=default&hide_border=true&background=ffffff&ring=2563eb&fire=ef4444&currStreakLabel=2563eb&sideLabels=374151&dates=6b7280)](https://git.io/streak-stats)
 
 </div>
 
@@ -96,7 +96,7 @@ const haisam = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🌐 freelancer Portfolio](https://haisam10.github.io/freelancer/) | Personal portfolio & freelance page | HTML, CSS, JS |
+| [🌐 Freelancer Portfolio](https://haisam10.github.io/freelancer/) | Personal portfolio & freelance page | HTML, CSS, JS |
 | [🕸️ Web-0-finder](https://github.com/haisam10/Web-0-finder) | Python script for crawling website links | Python |
 | [🏫 Attendance System](https://github.com/haisam10/Attendance-Management-System-javafx) | Desktop app for student attendance tracking | JavaFX |
 | [🛒 MDHH Shop](https://github.com/haisam10/mdhh-shop) | PHP-based eCommerce website project | PHP, MySQL |
@@ -111,7 +111,7 @@ const haisam = {
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.haisam.hoque)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/md_haisam_hoque)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haisam10.github.io/freelancer/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haisam10)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haisam10)
 
 </div>
 
@@ -122,8 +122,8 @@ const haisam = {
 ### 👁️ Profile Views
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=haisam10.haisam10)
 
-### 💡 "Don't run to the plugin, make your own RAW code."
+### 💡 *"Don't run to the plugin, make your own RAW code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
 
 </div>
