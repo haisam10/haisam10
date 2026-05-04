@@ -1,120 +1,81 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=42" />
+# Hi, I'm MD Haisam Hoque 👋
 
-<img src="https://raw.githubusercontent.com/haisam10/haisam10/refs/heads/main/Neutral%20Creative%20Professional%20LinkedIn%20Article%20Cover%20Image.png" width="100%"/>
+**Web Developer | Application Developer | Ethical Hacker**  
+**CEO & Founder @ MDHH Group & Technology**  
 
-<h2>Thanks for visiting my profile.<br> I'm a WEB Developer & RAW coder in Bangladesh <img src="https://flagpedia.net/data/flags/emoji/twitter/256x256/bd.png" width="20vw"/></h2>
+![Profile Views](https://komarev.com/ghpvc/?username=haisam10&color=0e75b6&style=flat-square&label=Profile+Views)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-haisam-hoque/)  
+[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-green?style=flat-square&logo=fiverr)](https://www.fiverr.com/md_haisam_hoque)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail)](mailto:your.email@example.com)
 
-<h5>🌐 My Webpage → <a href="https://haisam10.github.io/freelancer/">https://haisam10.github.io/freelancer/</a></h5>
+---
 
-<div style="display:flex; flex-direction:column;">
-  <img src="https://img-c.udemycdn.com/course/480x270/5307668_e6e2_2.jpg" alt="Linux" height="200" />
-  <img src="https://raw.githubusercontent.com/haisam10/haisam10/refs/heads/main/ANO.gif" alt="anonymous" height="200" />
-  <img src="https://www.itsa365.de/_next/image?url=https%3A%2F%2Fimages.nuernbergmesse.de%2Ffiles%2F89531a94-987c-4db5-6171-3802f9020e95.png&w=640&q=75" alt="anonymous" height="200" />
-  <img src="https://www.insightsforprofessionals.com/getmedia/a317e532-1c4c-4ad5-9b63-6f86f1be778c/hackerone?maxsidesize=1200&resizemode=force" alt="anonymous" height="200" />
-</div>
+### 🌟 About Me
 
-<br/>
+Passionate software developer and cybersecurity enthusiast from Dhaka, Bangladesh. I believe in **"Don't run to the plugin, make your own RAW code."** — building solutions from the ground up with clean, efficient, and secure code.
 
-- 🔭 I'm working on **Travel Joyfully**, **Turtleomg**, **Robnon Tech** *(Cybrary Security)*
-- 🌱 I'm learning **Computer Science and Engineering** at Shanto-Mariam University of Creative Technology
-- 👯 **CEO and Founder** of MDHH Group & Technology
+I'm currently pursuing **Computer Science and Engineering** at Shanto-Mariam University of Creative Technology and actively working on web applications, automation tools, and ethical hacking projects.
 
-<hr />
+- 🔭 Currently working on: **Travel Joyfully**, **TurtleOMG**, **Robnon Tech**, and personal cybersecurity tools
+- 🌱 Learning: Advanced web technologies, Flutter, and secure system architecture
+- 👯 Open to: Collaborations on web projects, penetration testing, and open-source contributions
 
-<h3>🛠️ Tech Stack</h3>
+---
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="background:#fff" />
-  </a>
-  <br/><br/>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <br/><br/>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <br/><br/>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-  </a>
-  <br/><br/>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="background:#fff" />
-  </a>
-</p>
+### 🛠️ Tech Stack
 
-<br/>
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-<a href="https://github.com/haisam10" target="_blank" rel="noopener noreferrer">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisam10&layout=compact&theme=default&bg_color=ffffff&title_color=2563eb&text_color=374151&hide_border=true" alt="Top Languages" />
-</a>
+**Backend & Others**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
-<br/><br/>
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
-<h2>👁️ Visitor Count</h2>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=haisam10.haisam10" alt="Visitor Count" />
+**Tools & Security**  
+Kali Linux • SQLMap • Burp Suite • Nmap • Metasploit • Wireshark • Git
 
-<h2>📈 Contribution Graph</h2>
-<img src="https://github.com/haisam10.png" alt="GitHub Profile Picture" style="width:100px; border-radius:50%;" />
-<br/><br/>
-<img src="https://ghchart.rshah.org/2563eb/haisam10" alt="GitHub Contribution Graph" />
+**Databases**  
+MySQL • MongoDB • PostgreSQL
 
-<h2>🌟 Project Highlights</h2>
-<ul>
-  <li><a href="https://github.com/haisam10/Web-0-finder" target="_blank" rel="noopener noreferrer">Web-0-finder</a> — Python script for crawling website links.</li>
-  <li><a href="https://github.com/haisam10/Attendance-Management-System-javafx" target="_blank" rel="noopener noreferrer">Attendance Management System (JavaFX)</a> — Desktop app for student attendance.</li>
-  <li><a href="https://github.com/haisam10/mdhh-shop" target="_blank" rel="noopener noreferrer">mdhh-shop</a> — PHP-based eCommerce website project.</li>
-</ul>
+---
 
-<hr/>
+### 🔥 Featured Projects
 
-<p align="center"><i>"Don't run to the plugin, make your own RAW code."</i></p>
+- **[SQL Doppler](https://github.com/haisam10/sql-doppler)** — Beginner-friendly SQL Injection automation tool (Python + SQLMap)
+- **[Web-0-finder](https://github.com/haisam10/Web-0-finder)** — Website link crawler script
+- **[Attendance Management System](https://github.com/haisam10/Attendance-Management-System-javafx)** — Desktop app built with JavaFX
+- **[mdhh-shop](https://github.com/haisam10/mdhh-shop)** — Full-featured PHP eCommerce platform
+- **[php-doppler](https://github.com/haisam10/php-doppler)** — PHP security & scanning tools
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer" />
+**Explore all repositories →** [github.com/haisam10](https://github.com/haisam10?tab=repositories)
+
+---
+
+### 📫 Get In Touch
+
+- **Location**: Dakkhinkhan, Dhaka-1230, Bangladesh
+- **Portfolio**: [haisam10.github.io/freelancer](https://haisam10.github.io/freelancer/)
+- **Fiverr**: [md_haisam_hoque](https://www.fiverr.com/md_haisam_hoque)
+- **LinkedIn**: [MD Haisam Hoque](https://www.linkedin.com/in/md-haisam-hoque/)
+- **Facebook**: [md.haisam.hoque](https://www.facebook.com/md.haisam.hoque)
+
+---
+
+### 📊 GitHub Stats
+
+![Haisam's GitHub stats](https://github-readme-stats.vercel.app/api?username=haisam10&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haisam10&layout=compact&theme=radical)
+
+---
+
+**Thanks for visiting my profile!** ✨  
+Feel free to explore my projects and reach out for collaboration or freelance opportunities.
