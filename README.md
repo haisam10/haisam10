@@ -18,10 +18,7 @@
     alt="anonymous"
     height="200"
     />
-   <img src="https://www.insightsforprofessionals.com/getmedia/a317e532-1c4c-4ad5-9b63-6f86f1be778c/hackerone?maxsidesize=1200&resizemode=force"
-    alt="anonymous"
-    height="200"
-    />
+   
   </div>
   <div>
 - 🔭 I’m working on Travel joyfully, Turtleomg, Robnon Tech-(Cybrary Security).<br>
