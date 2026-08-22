@@ -212,10 +212,6 @@
 
   <br /><br />
 
-  <a href="https://github.com/haisam10" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haisam10&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-
 
 
  <div class="section">
